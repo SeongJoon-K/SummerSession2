@@ -1,1 +1,1 @@
-# SummerSession2
+# 여름방학 2번째 세션(AWS 배포)
